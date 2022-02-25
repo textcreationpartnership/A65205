@@ -1,0 +1,140 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Vanity of female pride a true relation of a sow that Pig'd seven monstrous pigs, at Highworth in Wiltshire, on Tuesday the ninth of June 1691, all with top-knots, one with having the face of a woman, four ears, four tails and eight legs, the other six being shaped much after the same monstrous manner.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65205</idno>
+            <idno type="STC">Wing V93A</idno>
+            <idno type="STC">ESTC R22043</idno>
+            <idno type="EEBO-CITATION">12261222</idno>
+            <idno type="OCLC">ocm 12261222</idno>
+            <idno type="VID">57911</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65205)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57911)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 901:68)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Vanity of female pride a true relation of a sow that Pig'd seven monstrous pigs, at Highworth in Wiltshire, on Tuesday the ninth of June 1691, all with top-knots, one with having the face of a woman, four ears, four tails and eight legs, the other six being shaped much after the same monstrous manner.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by G.C. ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Broadside.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Broadsides</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:57911:1"/>
+            <!-- PDF PAGE 8 -->
+            <head>The Vanity of Female Pride:</head>
+            <p>BEING A True Relation of a Sow that Pig'd Seven Monſtrous Pigs, at <hi>Highworth</hi> in <hi>Wiltſhire,</hi> on <hi>Tueſday</hi> the Ninth of <hi>June</hi> 1691. all with High Top-Knots, one having the Face of a Woman, Four Ears, Four Tails and Eight Legs; the other Six being ſhaped much after the ſame Monſtrous manner.</p>
+            <figure>
+               <figDesc>depiction of a porcine monstrous birth</figDesc>
+            </figure>
+            <p>NOtwithſtanding the many Signs of God's Diſpleaſure to the People of this Nation, for their continual Provoca<g ref="char:EOLhyphen"/>tions, we find the ſame no way abated, but rather aug<g ref="char:EOLhyphen"/>mented; more eſpecially in the intollerable Pride of the Female Sex, as to their Towers and Top-Knots, and the reſt of their Gaudy Attire, which is the Root of all Evil; and 'tis to be fear'd, will draw heavier Judgments upon us than we ſhall be able to bear. But we hope the ſame God will open their Eyes, whereby they may be<g ref="char:EOLhyphen"/>hold their Folly, and in time flee from that Wrath which is threat<g ref="char:EOLhyphen"/>ned to ſuch obdurate Sinners, who wilfully continue in their Wick<g ref="char:EOLhyphen"/>edneſs. Indeed the Strangeneſs of this Relation may ſeem ſome what <hi>improbable,</hi> but all muſt confeſs there is nothing <hi>impoſſible</hi> with the Almighty. You ſhall have it as exactly as we can relate it from Letters ſent us from the ſame place, and likewiſe from thoſe who were Eye-witneſſes to this Prodigy in Nature, and now in <hi>London</hi> ready to teſtifie the ſame to the Incredulous. Which take as follows.</p>
+            <p>At <hi>Highworth</hi> in <hi>Wiltſhire,</hi> at the Sign of the <hi>White Hart,</hi> the Houſe of Mr. <hi>John Bailey,</hi> on the Ninth of <hi>June,</hi> there was Pig'd of one Sow, Seven very Strange and Monſtrous Pigs, each repreſenting on its Head a Monumental Top-Knot, one of which had a Face like a Wo<g ref="char:EOLhyphen"/>man, and the Topping of three ſeveral Colours, as Red, Black, and White, having four Ears, four Tails, and eight Legs; its Tails ſeem'd to have Root each in a ſeveral place, as about the Rump and Sides: Another had a Face like a Bear, dreſs'd with Top Knots, ſix Ears, four Tails, and ſeven Legs, all after the ſame manner.</p>
+            <p>The reſt having the proper Phiſnomy of Pigs, but with the like Gallimaufrays, or Top-Knots on their Heads. What ſhould be the reaſon or this Monſtrous Conception, we cannot apprehend, unleſs it might be that our Jolly Dairy-Maid, being deck'd with thoſe Orna<g ref="char:EOLhyphen"/>ments, expecting the Company of her Dearly Beloved, and the Sow juſt then in the Act, her Eyes being fixed upon the Maid, and that (ſay ſome that would have it ſo) might be the occaſion of this Monſtrous Production; but am afraid their Judgment fails 'em, and would adviſe them better to conſider of it.</p>
+            <p>The Owner was much ſurprized at the ſight of this unexpected Litter, but however did preſently diſpatch them all, and buried them together, which afterwards he repented himſelf of, when he heard it might have been to his Advantage to have kept them alive.</p>
+            <p>It ſeems a Lady not far from thence, hearing of theſe Monſters, was curious to know the Truth of what we have related above; and employed a Young Lad to procure one of them; which he did, dig<g ref="char:EOLhyphen"/>ing it up, and carrying it to, the Lady, who was very well ſatiſfied in the Truth thereof, and gratified the Boy beyond his Expectation.</p>
+            <p>As a farther Confirmation, if you pleaſe to give your ſelf the trouble to enquire of the Carrier who lyes at the <hi>White Horſe Inn in Friday-ſtreet,</hi> he will fully ſatisfie you to your deſire.</p>
+            <p>And now Females, I hope this is enough to deter you from per<g ref="char:EOLhyphen"/>ſiſting any longer in a Stubborn Reſolution; lay aſide therefore this naſty Pride, which is nothing but Vanity, and bedeck your ſelves with thoſe Beautiful Ornaments, and Graces of the Soul, (proper Dreſſes for ſo refined a Sex, before corrupted) ſuch are Humility, Vertue and Modeſty, which will make you acceptable in the ſight of the Creator, and far more pleaſing to the whole World.</p>
+            <p>'Tis not the High Top Knots, the Powder'd Hair, a Beautiful Face, a Clear Skin, a well-ſhap'd Body, and thoſe, other Charming, Lineaments and Deluſions, has the leaſt Influence on a Generous Friend: And unleſs you leave off theſe trifling Shadows, on purpoſe plac'd to enſnare and decoy the Wanton ſort of Men to your Licure; or to ſpeak more favourably, to Intice and Intrap the more Sober ſort to a Confined State (for one of theſe muſt needs be the reaſon) 'tis great pity you ſhould taſte the Sweetneſs of a Marriage-Bed, and ſo for ever be deſtitute of a Husband.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>G.C.</hi> at the <hi>Blue Ball</hi> in <hi>Thames-ſtreet,</hi> 1691.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
